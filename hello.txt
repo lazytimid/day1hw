@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 hello world 
 I am master
+I am hot-fix
