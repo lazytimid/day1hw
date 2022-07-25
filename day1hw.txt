@@ -1,4 +1,5 @@
 start
 I am master
-I am day1hw
-1111111111
+I am day1hw 
+1111111111 master
+2222222222 day1hw
